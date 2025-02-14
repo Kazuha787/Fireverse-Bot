@@ -2,7 +2,7 @@
 ## 📢 Join Our Community
 
 # Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [3dos-Bot](https://github.com/Kazuha787/Fureverse-Bot.git)
+# GitHub Repository: [Fireverse](https://github.com/Kazuha787/Fureverse-Bot.git)
 
 ## 🌟 Features
 
