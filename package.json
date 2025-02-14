@@ -1,0 +1,31 @@
+{
+    "name": "fireverse-auto-bot",
+    "version": "1.0.0",
+    "description": "FireverseAI Music Auto Bot - Airdrop Insiders",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/airdropinsiders/Fireverse-Auto-Bot.git"
+    },
+    "keywords": [
+      "fireverse",
+      "bot",
+      "music",
+      "airdrop",
+      "automation"
+    ],
+    "author": "Airdrop Insiders",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/airdropinsiders/Fireverse-Auto-Bot/issues"
+    },
+    "homepage": "https://github.com/airdropinsiders/Fireverse-Auto-Bot#readme",
+    "dependencies": {
+      "axios": "^1.6.7"
+    }
+  }
+  
