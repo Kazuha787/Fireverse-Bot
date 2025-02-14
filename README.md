@@ -24,7 +24,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Fireverse-Bot.git
+git clone https://github.com/Kazuha787/Fireverse-Bot.git
 ```
 
 2. Navigate to the project directory:
